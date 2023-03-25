@@ -8,7 +8,6 @@
 * @website https://betterdiscord.app/theme/NotAnotherAnimeTheme
 */
 @import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
-@import url('https://fonts.googleapis.com/css2?family=Poppins');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 :root {
@@ -24,7 +23,6 @@
 --mention-sider: #FA1E1EFF;
 --mention-hover-color: #faa61a14;
 --category-hover-color: #43B581FF;
---unread-server-animation: rainbow;
 --video-screen-button-background-color: #c8c8c833;
 --video-screen-button-foreground-color: #ffffffff;
 --video-screen-button-background-hovor-color: #c8c8c866;
@@ -85,5 +83,5 @@
 --rs-streaming-color: #643da7;
 --rs-invisible-color: #747f8d;
 --rs-phone-visible: block;
---customFont: 'Poppins';
+--customFont: 'Kano';
 }
