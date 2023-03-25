@@ -8,18 +8,19 @@
 * @website https://betterdiscord.app/theme/NotAnotherAnimeTheme
 */
 @import url("https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 :root {
 --main-theme-color: #43b581;
 --theme-transparency: #000000cc;
 --theme-background-image: url('https://cdn.discordapp.com/attachments/788614586295123988/1085444622106492948/download_8.jpg');
---home-icon-image: url('https://i.imgur.com/63g6Em8.jpg');
+--home-icon-image: url('https://i.imgur.com/okspFLe.gif');
 --home-icon-image-zoom: 100%;
 --home-icon-image-position: center;
 --server-listing-width: 72px;
 --font-size: 100%;
---mention-color: #42F1FA0D;
+--mention-color: #FA401458;
 --mention-sider: #FA1E1EFF;
 --mention-hover-color: #faa61a14;
 --category-hover-color: #43B581FF;
@@ -48,14 +49,14 @@
 --channel-limit-background-right: #c8c8c833;
 --scrollbar-color: #c8c8c833;
 --unread-message-divider-color: #f04747;
---unread-message-divider-font-color: #FF0505FF;
---new-messages-bar-background-color: #7289da;
---new-messages-bar-font-color: #ffffff;
---emoji-menu-background-color: #ffffff;
---emoji-menu-sider-background-color: #ffffff;
---emoji-menu-server-header-background-color: #ffffff;
---emoji-menu-bottom-bar-background-color: #ffffff;
---emoji-menu-search-bar-background-color: #ffffff;
+--unread-message-divider-font-color: #FFFFFFFF;
+--new-messages-bar-background-color: #DA0000A0;
+--new-messages-bar-font-color: #FFFFFFFF;
+--emoji-menu-background-color: #000000CC;
+--emoji-menu-sider-background-color: #000000CC;
+--emoji-menu-server-header-background-color: #000000CC;
+--emoji-menu-bottom-bar-background-color: #000000CC;
+--emoji-menu-search-bar-background-color: #000000CC;
 --message-search-menu-background-color: #000000cc;
 --message-search-container-background-color: #00000099;
 --message-search-result-background-color: #c8c8c80d;
@@ -84,5 +85,5 @@
 --rs-streaming-color: #643da7;
 --rs-invisible-color: #747f8d;
 --rs-phone-visible: block;
---customFont: 'kano';
+--customFont: 'Poppins';
 }
